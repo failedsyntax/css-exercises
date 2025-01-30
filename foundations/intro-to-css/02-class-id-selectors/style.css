@@ -1,0 +1,19 @@
+p {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+p#Third {
+    font-size: 24px;
+}
+
+div#Second {
+    color: blue;
+    font-size: 36px;
+}
+
+div#Fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
